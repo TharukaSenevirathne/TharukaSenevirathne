@@ -17,34 +17,28 @@
 
 ## 🚧 Ongoing Projects
 
-- 🔬 **Scienest** – A virtual physics and chemistry lab for A-Level students with integrated 3D modeling and visualization
-- 🤖 **Autonomous Line-Following Robot** – Controlled via PID algorithm, using IR sensors and ESP32
-- 🚚 **Goods Delivery Platform** – A logistics web application for managing and tracking deliveries
-
----
-
-## 🌱 Currently Learning
-
-- 📘 Software Engineering Ethics & Professional Practice
-- 📚 Advanced Data Structures and Algorithms
-- 🐍 Python Programming for Automation and AI
+- 🔬 **Scienest** – A virtual physics and chemistry lab for A-Level students with integrated 3D modeling and visualization  
+- 🤖 **Autonomous Line-Following Robot** – Controlled via PID algorithm, using IR sensors and ESP32  
+- 🚚 **Goods Delivery Platform** – A logistics web application for managing and tracking deliveries  
 
 ---
 
 ## 📫 Get in Touch
 
-- 📧 Email: `tharukasenevirathne256@gmail.com`
+- 📧 Email: `tharukasenevirathne256@gmail.com`  
 - 🔗 LinkedIn: [linkedin.com/in/tharuka-senevirathne-899252298](https://www.linkedin.com/in/tharuka-senevirathne-899252298)
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,dotnet,flutter,arduino,mysql,nosql,nodejs,cpp,py,git)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,dotnet,flutter,arduino,mysql,nosql,nodejs,cpp,py,git" />
+</p>
 
 ---
 
-## 📈 GitHub Stats & Languages
+## 📈 GitHub Stats
 
 <div align="center">
 
