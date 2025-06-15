@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tharuka Senevirathne!
 
-🎓 I'm an undergraduate at the [**Faculty of Computing (FoC), Sabaragamuwa University of Sri Lanka (SUSL)**](https://www.sab.ac.lk/foc), pursuing a degree in **Computer Science**, **Information Systems**, **Software Engineering**, and **Data Science**.
+🎓 I'm an undergraduate at the [**Faculty of Computing (FoC), Sabaragamuwa University of Sri Lanka (SUSL)**](https://www.sab.ac.lk/computing/), pursuing a degree in **Computer Science**, **Information Systems**, **Software Engineering**, and **Data Science**.
 
 ---
 
