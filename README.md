@@ -1,25 +1,23 @@
 # 👋 Hi there, I'm Tharuka Senevirathne!
 
-🎓 I'm an undergraduate at the [**Faculty of Computing (FoC), Sabaragamuwa University of Sri Lanka (SUSL)**](https://www.sab.ac.lk/computing/), pursuing a degree in **Computer Science**, **Information Systems**, **Software Engineering**, and **Data Science**.
+🎓 I'm an undergraduate at the [**Faculty of Computing (FoC), Sabaragamuwa University of Sri Lanka (SUSL)**](https://www.sab.ac.lk/computing/), pursuing a degree in **Computing and Information Systems**.
 
 ---
 
 ## 💻 Interests
 
 - 🌐 Developing full-stack web applications using **React**, **Next.js**, and **.NET**
-- 📱 Creating cross-platform mobile apps with **Flutter**
 - 🗄️ Designing and managing databases with **MySQL** and **NoSQL**
-- 🧠 Applying **Machine Learning** to solve real-world problems
-- 🛠️ Building **IoT and embedded systems** with Raspberry Pi, STM32, ESP32, and NodeMCU
+- 🧠 Applying **Machine Learning** to solve real world problems
+- 🛠️ Building **IoT and embedded systems**
 - 🗂️ Organizing clean, scalable codebases and leading collaborative software projects
 
 ---
 
 ## 🚧 Ongoing Projects
 
-- 🔬 **Scienest** – A virtual physics and chemistry lab for A-Level students with integrated 3D modeling and visualization  
-- 🤖 **Autonomous Line-Following Robot** – Controlled via PID algorithm, using IR sensors and ESP32  
-- 🚚 **Goods Delivery Platform** – A logistics web application for managing and tracking deliveries  
+- 🔬 **Scienest** – A virtual physics and chemistry lab for Advanced-Level students with integrated 3D modeling and visualization  
+- 🤖 **Needalyze** – Digitalizing the Need Analysis Form of SLIC
 
 ---
 
